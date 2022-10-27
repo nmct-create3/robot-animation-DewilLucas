@@ -92,7 +92,7 @@ body {
     }
 
     50% {
-        stroke-dashoffset: 46.75;
+        stroke-dashoffset: calc(187/4);
         transform: rotate(135deg);
     }
 
